@@ -1,3 +1,5 @@
-
-
-https://github.com/HectorSoto1/examplejenkins.git
+public class HolaMundo {
+public static void main(String[] argumentos){
+System.out.println("Hola mundo");
+}
+} 
